@@ -1,1 +1,1 @@
-# CMYK
+# p2 cmyk
